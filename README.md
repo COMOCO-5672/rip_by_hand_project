@@ -1,0 +1,1 @@
+# rip_by_hand_project
