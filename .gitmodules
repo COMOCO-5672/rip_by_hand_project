@@ -1,0 +1,3 @@
+[submodule "rtsp_by_hand"]
+	path = rtsp_by_hand
+	url = https://github.com/COMOCO-5672/rtsp_by_hand.git
